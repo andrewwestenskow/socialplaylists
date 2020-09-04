@@ -16,7 +16,7 @@
     "express-session": "^1.16.1",
     "lottie-web": "^5.5.3",
     "massive": "^5.8.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "random-string": "^0.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
